@@ -1,0 +1,100 @@
+*{
+    max-width: 100%;
+}
+body{
+   margin: 0;
+  max-width: 100%;
+}
+header{
+    max-width: 100vw;
+}
+.navbar-brand span{
+    font-size: larger;
+    font-weight: bolder;
+}
+.navbar-brand{
+    line-height: normal;
+}
+.nav-item{
+    color: black;
+}
+#color{
+    color:  #51B9E0;
+}
+.bgd h2{
+    margin-top: 10rem;
+}
+.bgd h5{
+    margin-top: 3rem;
+}
+.bgd button{
+    border-radius: 3px;
+}
+.bgd i{
+    margin-left: 50rem;
+    margin-top: 15px;
+    color: white;
+    font-size: 3rem;
+}
+.section-2 h4{
+    text-align: center;
+    margin-top: 17rem;
+    
+}
+.section-2 .card1{
+    background-color: #51B9E0;
+}
+.section-2 .card{
+    background-color: #E0E0E0;
+}
+.section-3{
+    margin-top: 5em;
+   
+}
+.section-3 img{
+    height: 17rem;
+}
+#img1{
+    z-index: 2;
+   margin-left: -10px;
+}
+#img2{
+    z-index: 1;
+   margin-top: -140px;
+   margin-left: 200px;
+}
+#certificates{
+    text-align: center;
+    color: #68A4B9;
+    margin-top: 60px;
+  
+}
+.projects h2{
+    text-align: start;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.latest-project button{
+    margin-right: 85px;
+}
+.latest-project{
+    margin-top: 50px;
+    background-color:#EBEBEB;
+    height: 25rem;
+}
+.client{
+    margin-top: 5rem;
+    height: 20rem;
+}
+footer{
+    background-color:black;
+   height: 7rem;
+}
+footer h3{
+    margin-left: 100px;
+}
+footer button{
+    margin-right: 50px;
+    padding: 30px;
+}
